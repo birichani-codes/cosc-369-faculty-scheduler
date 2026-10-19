@@ -1,6 +1,6 @@
 # COSC 369: Faculty Teaching and Office-Hours Scheduler
 
-Bowie State University | Software Engineering I | Assignment demonstration
+Bowie State University | Software Engineering I | Assignment 
 
 ## Purpose
 A modular **C** application reads **exactly two runtime input files** (`data/courses.csv` and `data/faculty.csv`) and generates `output/teaching_schedule.csv` and `output/office_hours.csv`. The reusable scheduling/CSV-processing implementation is compiled into `libschedule.a`. Optional Python postprocessing generates Prolog facts and a text report from the **generated output**, not additional C inputs.
@@ -30,7 +30,7 @@ The C build and scheduling tests **do not require Prolog**. `output/knowledge_ba
 - The spreadsheet has two asynchronous courses without clock times and some potentially invalid or unusual time entries; the C program flags these for review instead of guessing corrections.
 - The syllabus heading mentions Spring 2026 but its weekly teaching schedule lists Fall 2026 dates; this discrepancy should be verified by the instructor.
 - Office-hour conflict checks are based on exact textual instructor matches and week-day/time overlap; an office-hours row is only printed as confirmed when the input includes actual times.
-- For a production scheduler, use stronger department-identification rules, normalized instructor IDs, and administrative approval before publishing faculty office hours.
+
 
 ## Project structure
 ```
@@ -57,6 +57,4 @@ reports/               PDF assignment report
 ## Compiling a static library
 `gcc -c src/scheduler.c -o build/scheduler.o`, then `ar rcs libschedule.a build/scheduler.o`. The main program links it with `-L. -lschedule`. The Makefile runs this automatically and rebuilds modules if prerequisites change.
 
-## Academic integrity
-This package is a working reference implementation; review, understand, test, adapt, and acknowledge any external assistance as required by the course syllabus.
 # cosc-369-faculty-scheduler
