@@ -1,0 +1,65 @@
+BOWIE STATE UNIVERSITY - GENERATED SCHEDULE SUMMARY
+
+CLASS SCHEDULE
+CTEC 350.170 | Adedoyin, Anthony | MW | 16:00-18:50 | 108 | ok
+CTEC 350.180 | Adedoyin, Anthony | MW | 16:00-18:50 | 108 | ok
+CTEC 435.170 | Adedoyin, Anthony | MW | 19:00-21:50 | 108 | ok
+CTEC 120.171 | Agboli, P. | MW | 17:00-19:00 | 201/112 | ok
+CTEC 300.170 | Agboli, P. | MW | 19:00-21:50 | 112 | ok
+CTEC 214.180 | Baptiste, R. | TR | 12:00-15:40 | 109 | ok
+CTEC 302.170 | Baptiste, R. | TR | 16:00-18:50 | Dept | ok
+CTEC 302.180 | Baptiste, R. | TR | 16:00-18:50 | 111 | ok
+CTEC 128.170 | Bemley | TR | 12:00-14:50 | Online | ok
+CTEC 298.180 | Bemley, J | TR | 16:00-18:50 | 108 | ok
+CTEC 671.555 | Bemley, Jesse | TR | 16:00-18:50 | Online | ok
+CTEC 711.555 | Ruth Agada | MWF | 17:00-17:00 | Online | review source time
+CTEC 720.555 | Bright, Marvin | MW | 19:00-21:50 | Online | ok
+CTEC 721.555 | Bright, Marvin | TR | 19:00-09:50 | Online | review source time
+CTEC 424.555 | Carter, Adrian D. | TR | 19:00-21:50 | Online | ok
+CTEC 445.170 | Carter, Adrian D. | MW | 16:00-18:50 | 111 | ok
+CTEC 450.170 | Carter, Adrian D. | MW | 19:00-21:50 | 111 | ok
+CTEC 305.170 | Chery, Pierrot | TR | 16:00-18:50 | Dept | ok
+CTEC 305.180 | Chery, Pierrot | TR | 16:00-18:50 | 109 | ok
+CTEC 405.170 | Chery, Pierrot | TR | 19:00-21:50 | 109 | ok
+CTEC 226.180 | Deal, Shawn | TR | 19:00-21:50 | 116 | ok
+CTEC 294.170  | Dixon, Carl | MW | 16:00-18:50 | 112 | ok
+CTEC 294.180 | Dixon, Carl | MW | 16:00-18:50 | 112 | ok
+CTEC 120.170 | Dr. Stone, D. B. | MW | 12:00-03:15 | 116 | review source time
+CTEC 125.555 | Dr. Stone, D. B. | None | - | Online | asynchronous / no fixed meeting
+CTEC 125.556 | Dr. Stone, D. B. | None | - | Online | asynchronous / no fixed meeting
+CTEC 324.555 | Dr. Stone, D. B. | MW | 16:00-18:50 | online | ok
+CTEC 111.172 | Eugene Harris | TR | 08:00-10:50 | 111 | ok
+CTEC 114.172 | Eugene T. Harris | TR | 16:00-18:50 | 114 | ok
+CTEC 475.180 | Francis, Wilbert R. | MW | 19:00-21:50 | 114 | ok
+CTEC 111.173 | Henri E. Cooper | MW | 16:00-18:50 | Online | ok
+CTEC 111.171 | Staphord Bengesi | MW | 08:00-10:50 | Online | ok
+CTEC 393.555 | Lamar, Courtney | MW | 16:00-18:50 | Online | ok
+CTEC 426.170 | Miller, Stephanie R. | MW | 19:00-21:50 | 114 | ok
+CTEC 651.555 | Njeh, Felix | MW | 16:00-18:50 | Online | ok
+CTEC 410.170 | Okonofua, Henry | TR | 16:00-18:50 | 201 | ok
+CTEC 410.180 | Okonofua, Henry | TR | 16:00-18:50 | 201 | ok
+CTEC 222.170 | Roberts, Curtis | TR | 19:00-21:50 | 108 | ok
+CTEC 335.170 | Roberts, Curtis | TR | 16:00-18:50 | 116 | ok
+CTEC 335.180 | Roberts, Curtis | TR | 16:00-18:50 | 116 | ok
+CTEC 345.170 | Brett Tolbert | MW | 17:00-19:50 | 109 | ok
+CTEC 345.180 | Brett Tolbert | MW | 17:00-19:50 | 111 | ok
+CTEC 402.170 | Staphord Bengesi | MW | 19:00-21:50 | Online | ok
+CTEC 402.180 | Ruth Agada | MW | 19:00-21:50 | Online | ok
+CTEC 435.180 | Ruth Agada | MW | 19:00-21:50 | 108 | ok
+CTEC 445.180 | Staphord Bengesi | MW | 16:00-18:50 | 109 | ok
+CTEC 450.180 | Loubna Dali | MW | 19:00-21:50 | 111 | ok
+CTEC 111.170 | Loubna Dali | TR | 09:00-11:50 | Online | ok
+CTEC 220.170 | Vega, J. | MW | 11:00-13:50 | 114 | ok
+CTEC 220.180 | Vega, J. | MW | 11:00-13:50 | 114 | ok
+CTEC 230.180 | Vega, J. | MW | 16:00-18:50 | 114 | ok
+CTEC 114.170 | Victoria Lee | MW | 16:00-18:50 | 116 | ok
+CTEC 128.180 | Wilson, Marcella J. | TR | 16:00-18:50 | Online | ok
+CTEC 230.170 | Wilson, Marcella J. | TR | 11:00-14:40 | 114 | ok
+CTEC 293.170 | Wilson, Marcella J. | MW | 16:00-18:50 | 114 | ok
+CTEC 415.180 | Wilson, Marcella J. | TR | 10:00-12:50 | 114 | ok
+COSC 369 | Dr. Appolo Tankeh | TR | 09:30-10:45 | CS 108 | ok
+
+OFFICE HOURS (only source-confirmed times)
+Dr. Appolo Tankeh | TR | 10:45-13:00 | provided - no teaching conflict
+
+Other faculty office hours were not supplied in source documents.
